@@ -1,0 +1,6 @@
+.idea
+__pycache__
+build
+poppler-21.09.0
+*.jpeg
+test.py
